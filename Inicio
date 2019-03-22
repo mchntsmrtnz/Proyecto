@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inicio</title>
+<link rel="stylesheet" type="text/css" href="11.css">
+<style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+	.hi{
+		text-align: center;
+		color: #FCFCFC;
+	}
+</style>
+</head>
+<headeer>
+	<div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+<body>
+<nav>
+	<ul>
+		<li><a href="#">Inicio</a></li>
+		<li><a href="#">Sobre nosotros</a></li>
+		<li><a href="#">Menú</a></li>
+		<li><a href="#">Sucursales</a></li>
+		<li><a href="#">Nuestros servicios</a></li>
+	</ul>
+</nav>
+ <center>
+ <br>
+ <br>
+ <br>
+  <img  src="logo.jpg.png" width="218" height="250" >
+</center>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Nativitas centro N° 12 , Tlaxcala | Redes Sociales: @Facebook  @Instagram  @Twitter </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180 | </p>
+<br>
+ </nav>
+</body>
+</html>
