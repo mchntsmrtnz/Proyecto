@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sobre nosotros</title>
+<link rel="stylesheet" type="text/css" href="12.css">
+<style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+	h1{
+		text-align: center;
+		color: #BA1313;
+		font-family: Kodinah Diary;
+		font-size: 45px;
+	}
+		.hi{
+		text-align: center;
+		color: #FCFCFC;
+	}
+	p{
+		text-align: center;
+		text-align: justify;
+	}
+</style>
+</head>
+<headeer>
+	<div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+<body>
+<nav>
+	<ul>
+		<li><a href="file:///E:/Web/Proyecto/Inicio.html#">Inicio</a></li>
+		<li><a href="file:///E:/Web/Proyecto/Quienes.html">Sobre nosotros</a></li>
+		<li><a href="file:///E:/Web/Proyecto/Menu.html">Menú</a></li>
+		<li><a href="file:///E:/Web/Proyecto/sucursales.html">Sucursales</a></li>
+		<li><a href="#">Nuestros servicios</a></li>
+	</ul>
+</nav>
+ <h1><em> Sobre Nosotros </em></h1>
+<p>En Restaurante O Fernando te ofrecemos la posibilidad de degustar de nuestras principales especialidades; carnes a la brasa, deliciosas pizzas italianas y las mejores elaboraciones todo de primera calidad y con la mejor presentación. No esperes para degustar la gran variedad de platos realizados con las  mejores materias primas garantizando la máxima calidad y profesionalidad en todas nuestras elaboraciones.<br><br>Restaurante O Fernando te invita a un ambiente agradable para disfrutar de su entorno con amplias zonas ajardinadas y vegetación natural típica de la vega de Granada.Contamos con un ambiente fresco en verano y cálido en invierno gracias al salón interior dividido en dos plantas que lo hacenacogedor y muy cómodo para disfrutar aún más nuestros platos y especialidades.<br><br>Ponemos a tu disposición nuestras instalaciones para tus celebraciones (bodas, bautizos, comuniones, cenas de empresa, graduaciones, etc…). Restaurante O Fernando cuenta con un amplio surtido de menús para celebrar el día de tu boda, comuniones y otras celebraciones con una oferta gastronómica adaptada a cada bolsillo. Nuestra finalidad es ofrecerte el mejor servicio y los mejores sabores de la cocina tradicional. La elaboración de primera calidad, directa y con aroma son el secreto de nuestro Restaurante, y nuestro trato amable y cercano te harán sentir como en casa</p>
+	<center><img src="img1.jpg" width="240" height="300"></center>
+</body>
+<footer>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Nativitas centro N° 12 , Tlaxcala | Redes Sociales: @Facebook  @Instagram  @Twitter </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+</html>
