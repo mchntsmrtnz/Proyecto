@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Menú</title>
+        <link rel="stylesheet" type="text/css" href="13.css">
+    <style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+    h1{
+        text-align: center;
+        color: #BA1313;
+        font-family: Kodinah Diary;
+        font-size: 45px;
+    }
+
+        .hi{
+        text-align: center;
+        color: #FCFCFC;
+    }
+    h2{
+        font-family:  Kodinah Diary;
+    }
+</style>
+
+    <headeer>
+    <div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+</head>
+<body>
+    <nav>
+    <ul>
+        <li><a href="file:///E:/Web/Proyecto/Inicio.html#">Inicio</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Quienes.html">Sobre nosotros</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Menu.html">Menú</a></li>
+        <li><a href="file:///E:/Web/Proyecto/sucursales.html">Sucursales</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Servicios.html">Nuestros servicios</a></li>
+    </ul>
+</nav>
+<div class="width_100 wrapper_page">
+                
+            <div class="content">
+	        <div class="wrapper">
+	            <div class="one_column">
+	                <article>
+<div style="margin: 50px 0 0 0;" class="one_column">
+    <div id="submenu" class="width_100_p submenu-fijo">
+        <ul class="principal_nav_1">
+            <li class="btn_nav"><a class="ancla" href="#ancla_desayuno">Desayunos</a></li>
+            <li class="btn_nav"><a class="ancla" href="#ancla_entradas">Entradas/Ensaladas</a></li>
+            <li class="btn_nav"><a class="ancla" href="#ancla_comida">Comida</a></li>
+            <li class="btn_nav"><a class="ancla" href="#ancla_bebidas">Bebidas</a></li>
+            <li class="btn_nav"><a class="ancla" href="#ancla_vinos">Carta de Vinos</a></li>
+        </ul>
+    </div>
+    <div id="ancla_desayuno" class="col_100 margenes_1">
+            <h2 class="blanco align_right"><strong>DESAYUNOS</strong></h2>
+    </div>
+    <div class="col_100">
+        <div class="col_100">
+            <div class="col_33_p">
+                <h3><strong>Desayunos de la Casa</strong></h3>
+                <ul class="menu">
+                    <li><strong>Huevos “Matisse”</strong></li>
+                    <li><strong>Huevos colorines</strong><span class="italica tipo_14"> (granos de elote, jitomate, calabacita y queso panela)</span></li>
+                    <li><strong>Huevos libaneses</strong><span class="italica tipo_14"> (revueltos con queso shanklish)</span></li>
+                    <li><strong>Huevos Margarita </strong><span class="italica tipo_14"> (revueltos con salsa verde y queso panela)</span></li>
+                    <li><strong>Huevos tirados </strong><span class="italica tipo_14"> (tocino, frijoles, cebolla y un poco de chile picado)</span></li>
+                    <li><strong>Huevos oaxaqueños con salsa de chile pasilla</strong></li>
+                    <li><strong>Huevos ahogados</strong><span class="italica tipo_14">(servidos con rajas, salsa roja y crema, servidos en cazuela de barro)</span></li>
+                    <li><strong>Huevos jarochos </strong><span class="italica tipo_14"><!--(revueltos con salsa de frijol, chistorra, queso panela y chiles toreados)</span>--></span></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="1.jpg" width="260" height="170"></center></div>
+            </div>
+            <div class="col_33_p">
+                <ul class="menu">
+                    <li><strong>Omelette de hierbas finas y queso de cabra</strong></li>
+                    <li><strong>Omelette de claras de huevo  </strong><span class="italica tipo_14"> (relleno de nopales y queso panela)</span></li>
+                    <li><strong>Omelette relleno de huitlacoche con salsa poblana </strong></li>
+                    <li><strong>Omelette de salmón y queso crema</strong></li>
+                    <li><strong>Crepas rellenas de huitlacoche al gratín</strong></li>
+                    <li><strong>Enfrijoladas con pollo</strong></li>
+                    <li><strong>Enchiladas poblanas</strong></li>
+                    <li><strong>Chilaquiles con pollo</strong></li>
+                    <li><strong>Revolcadas de cochinita pibil</strong></li>
+                    <li><strong>Chalupitas poblanas con carne de res y salsa verde</strong></li>
+                </ul>
+        </div>
+        <div class="col_100">
+            <div class="col_33_p">
+                <h3><strong>Jugos y Frutas Naturales</strong></h3>
+                <ul class="menu">
+                    <li><strong>Naranja, zanahoria, toronja</strong></li>
+                    <li><strong>Zapote, mango, mandarina</strong><span class="italica tipo_14"> (granos de elote, jitomate, calabacita y queso panela)</span></li>
+                    <li><strong>Energético</strong><span class="italica tipo_14"> (piña, apio, nopal y naranja)</span></li>
+                    <li><strong>Vampiro</strong><span class="italica tipo_14"> (betabel, zanahoria y apio)</span></li>
+                    <li><strong>Orden de queso cottage o yogurt</strong></li>
+                    <li><strong>Orden de fruta</strong></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="2.jpg" width="260" height="170"></center></div>
+            </div>
+        </div>
+    </div>
+    <div id="ancla_entradas" class="col_100 margenes_1">
+        <div class="fondo_azul_claro col_30">
+            <h2 class="blanco align_right"><strong>ENTRADAS Y ENSALADAS</strong></h2>
+        </div>
+    <div class="col_100">
+        <div class="col_100">
+            <div class="col_33_p">
+                <h3><strong>Entradas</strong></h3>
+                <ul class="menu">
+                    <li><strong>Quesadillas Lacandonas (3 pzas) </strong><span class="italica tipo_14"> (con tortilla de plátano, rellenas de queso panela con mole)</span></li>
+                    <li><strong>Queso camembert con zarzamora al horno </strong><span class="italica tipo_14"> (con mayonesa de paprika, aguacate, ajonjoli y salsa verde)</span></li>
+                    <li><strong>Queso panela a la parrilla con chiles toreados</strong></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="3.jpg" width="260" height="170"></center></div>
+            </div>
+        <div class="col_100">
+            <div class="col_33_p">
+                <h3><strong>Ensaladas</strong></h3>
+                <ul class="menu">
+                    <li><strong>Ensalada Ceniza</strong><span class="italica tipo_14"> (rodajas de queso de cabra, albahaca, aguacate y aceite de olivo)</span></li>
+                    <li><strong>Ensalada Violeta </strong><span class="italica tipo_14"> (lechuga, jitomate y queso de cabra con aderezo de zarzamora)</span></li>
+                    <li><strong>Ensalada de higos </strong><span class="italica tipo_14"> (variedad de lechugas frescas, queso de cabra, nuez, pera, higo natural y aderezo de tomillo con miel)</span></li>
+                    <li><strong>Ensalada "Matisse" </strong><span class="italica tipo_14"> (variedad de lechugas frescas, palmitos, alcachofas, espárragos, con vinagreta de zarzamora y mango)</span></li>
+                    <li><strong>Ensalada César </strong><span class="italica tipo_14"> (con pechuga de pollo a la parrilla)</span></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="4.jpg" width="260" height="170"></center></div>
+            </div>
+        <div class="fondo_verde col_30">
+            <div id="ancla_comida" class="col_100 margenes_1">
+            <h2 class="blanco align_right"><strong>COMIDA</strong></h2>
+        </div>
+    </div>
+        <div class="col_100">
+            <div class="col_33_m">
+                <h3><strong>Sopas</strong></h3>
+                <ul class="menu">
+                    <li><strong>Consomé de pollo con tallarines, pollo y verduras </strong></li><br>
+                    <li><strong>Matze ball </strong><span class="italica tipo_14"> (bola de pan ácimo)</span></li><br>
+                    <li><strong>Sopa de fideo</strong></li><br>
+                    <li><strong>Sopa borscht </strong><span class="italica tipo_14"> (fría) </span></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="5.jpg" width="260" height="170"></center></div>
+            </div>
+                <h3><strong>Pescados</strong></h3>
+                <ul class="menu">
+                    <li><strong>Filete de róbalo a los tres chiles</strong></li>
+                    <li><strong>Filete de róbalo almendrado con salsa de 4 quesos  </strong></li>
+                    <li><strong>Filete de atún con costra de ajonjolí y salsa de frutos rojos con chipotle</strong></li>
+                    <li><strong>Filete de salmón en costra de 3 chiles c/guarnición de arroz</strong></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="6.jpg" width="260" height="170"></center></div>
+            </div>
+                <h3><strong>Carnes</strong></h3>
+                <ul class="menu">
+                    <li><strong>Milanesa Viena</strong></li>
+                    <li><strong>Carne asada a la tampiqueña </strong><span class="italica tipo_14">(filete abierto, con enchilada, rajas y guacamole)</span></li>
+                    <li><strong>Corazón de filete Aztlán </strong><span class="italica tipo_14">(relleno de queso de cabra, bañado con salsa pasilla)</span></li>
+                    <li><strong>Corazón de filete al jerez con setas</strong></li>
+                    <li><strong>Pierna de ternera al horno</strong></li>
+                    <li><strong>Goulash de ternera a la húngara con knödel </strong></li>
+                </ul>
+                <div class="col_100 align_center"><center><img class="img_100" src="7.jpg" width="260" height="170"></center></div>
+            </div>
+     <div id="ancla_bebidas" class="col_100 margenes_1">
+            <h2 class="blanco align_right"><strong>BEBIDAS</strong></h2>
+    </div>
+    <div class="col_100">
+            <div class="col_33_p">
+               <h3><strong>Bebidas</strong></h3>
+                <ul class="menu">
+                    <li><strong>Agua embotellada</strong></li><br>
+                    <li><strong>Agua Perrier 330 ml.</strong></li><br>
+                    <li><strong>Agua San Peregrino 500 ml.</strong></li><br>
+                   <li><strong>Limonada o naranjada</strong></li><br>
+                   <li><strong>Refresco</strong></li>
+                   <center><img class="img_100" src="8.jpg" width="260" height="170"></center>
+                </ul>
+            </div>
+
+        <div class="col_100">
+            <div class="col_33_p">
+                <h3><strong>De la Fuente</strong></h3>
+                <ul class="menu">
+                    <li><strong>Americano</strong><span class="italica tipo_14"> (con una cortesía)</span></li><br>
+                    <li><strong>Capuchino con leche entera </strong></li><br>
+                    <li><strong>Capuchino </strong><span class="italica tipo_14"> (pídalo con la leche deslactosada, light o de soya)</span></li>
+                    <li><strong>Capuchino frappé</strong></li><br>
+                    <li><strong>Café latte (300 ml.) </strong><span class="italica tipo_14"> (pídalo con la leche deslactosada, light o de soya)</span>
+                    </li><br>
+                    <li><strong>Capuchino de sabores  </strong><span class="italica tipo_14"> (rompope, cajeta, chocolate o caramelo)</span></li><br>
+                    <li><strong>Café vienés con crema </strong></li><br>
+                    <li><strong>Expresso</strong></li><br>
+                    <li><strong>Expresso largo</strong></li><br>
+                    <li><strong>Leche </strong></li> <br>
+                    <li><strong>Chocolate vienés con crema </strong></li><br>
+                    <li><strong>Euro Te</strong><span class="italica tipo_14">(Los mejores Tés y Tisanas del mundo)</span></li><br>
+                    <li><strong>Té francés Theodor </strong><span class="italica tipo_14">(con tetera individual)</span></li> <br>
+                    <li><strong>¡Voilá, Por fin en México, el Té Parisino Richard!</strong></li> <br>
+                    <li><strong>Pastel individual </strong></li><br>
+                    <li><strong>Pan dulce </strong></li><br>
+                    <li><strong>Concha “Matisse” </strong></li><br>
+                    <li><strong>Croissant </strong></li>
+                    <center><img class="img_100" src="9.jpg" width="260" height="170"></center>
+                </ul>
+            </div>
+            <div class="col_33_p">
+                 <h3>Cervezas</h3>
+                <ul class="menu">
+                   <li><strong>Affligem blonde </strong></li><br>
+                    <li><strong>Affligem triple</strong></li><br>
+                    <li><strong>Bohemia Clásica</strong></li><br>
+                    <li><strong>Heineken</strong></li><br>
+                    <li><strong>Tecate</strong></li><br>
+                    <li><strong>Tempus reserva especial</strong></li><br>
+                    <li><strong>XX Ámbar premier</strong></li><br>
+                    <li><strong>XX Lager</strong></li><br>
+                    <li><strong>Michelada</strong></li><br>
+                    <li><strong>Cielo rojo</strong><span class="italica tipo_14">(Con cerveza, clamato, jugo de limón y chile piquín)</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="ancla_vinos" class="col_100 margenes_1">
+            <h2 class="blanco align_right"><strong>CARTA DE VINOS</strong></h2>
+        </div>
+        <div class="col_50">
+             <center><img class="img_100" src="11.jpg" width="260" height="170"></center>
+            <h3><strong>Champagne</strong></h3>
+            <div class="col_33_p">
+                <ul class="menu">
+                    <li>Moët &amp; Chandon</li><br>
+                    <li>Chardonnay-Pinot Meunier-Pinot Noir</li><br>
+                    <li>Monbazillac</li>
+                    
+                </ul>
+            </div> 
+         <div class="col_50">
+            <h3><strong>Vinos Espumosos</strong></h3>
+                <ul class="menu">
+                    <li>Proseco</li><br>
+                    <li>Glera</li><br>
+                    <li>Veneto</li>
+                </ul>  
+            </div>
+        </div> 
+    <div class="col_100">
+        <div class="col_50">  
+        <div class="col_100">
+            <h3><strong>Vinos Blancos</strong></h3>
+            <div class="col_33_p">
+                <ul class="menu">
+                    <li>Torre la Moreira</li><br>
+                    <li>Albariño</li><br>
+                    <li>Rias Baixas</li><br>
+                    <li>Dulzino</li><br>
+                    <li>Moscato Bianco</li>
+                </ul>
+            </div>
+       </div> 
+    </div>
+</div></article>
+	            </div>
+	        </div>
+            </div>
+        </div>
+        </body>
+        <footer>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Nativitas centro N° 12 , Tlaxcala | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+</html>
