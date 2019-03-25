@@ -1,0 +1,152 @@
+<html><head>
+    <title>Sucursales</title>
+<link rel="stylesheet" type="text/css" href="14.css"><style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+
+        .hi{
+        text-align: center;
+        color: #FCFCFC;
+    }
+    h2{
+        font-family:  Kodinah Diary;
+        font-size: 30px;
+        color: #BA1313;
+        text-align: center; 
+    }
+</style></head>
+
+    
+    <body><headeer>
+    <div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+
+
+    <nav>
+    <ul>
+        <li><a href="file:///E:/Web/Proyecto/Inicio.html#">Inicio</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Quienes.html">Sobre nosotros</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Menu.html">Menú</a></li>
+        <li><a href="file:///E:/Web/Proyecto/sucursales.html">Sucursales</a></li>
+        <li><a href="file:///E:/Web/Proyecto/Servicios.html">Nuestros servicios</a></li>
+    </ul>
+</nav>
+
+
+
+<div class="width_100 wrapper_page">
+                
+            <div class="content">
+	        <div class="wrapper">
+	            <div class="one_column">
+	                <article><div style="margin: 50px 0 0 0;" class="one_column">
+    <div id="submenu" class="width_100_p submenu-fijo ubicacion">
+        
+        <ul class="principal_nav_1">
+            <li><strong>Elija una ubicación: </strong></li>
+            <li class="btn" style="border: none;"><a class="ancla" href="#ancla_polanco"> Polanco </a></li>
+            <li class="btn"><a class="ancla" href="#ancla_condesa"> Condesa </a></li>
+            <li class="btn"><a class="ancla" href="#ancla_valle"> Del Valle </a></li>           
+        </ul>
+          
+    </div>
+
+<div id="ancla_polanco" class="col_100">
+    
+<div class="col_100">
+            <div class="bkg_banquetes"><img class="img_100" src="logo.jpg" alt="" title=""></div>
+            <h2 class="blanco align_right"><strong>Ubicación <br> O Fernando Polanco </strong></h2>
+            <p class="tipo_16 blanco align_right"> Anatole France 115, Col.Polanco</p>
+            <p class="tipo_16 blanco align_right"><a class="azul_claro" href="tel:555281-8660"><strong> Tel: (246) 953-2180 </strong></a></p> 
+            <p class="tipo_13 blanco align_right">Lun a Sab de 7:00 am a 12:00 am </p>
+            <p class="tipo_13 blanco align_right">Dom de 7:00 am a 9:00 pm</p>
+        <div class="fondo_texto col_70"><img class="img_100" src="/skin/default/images/cab_polanco.jpg" alt="" title=""></div>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+    <div class="col_100 cont_mapa">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.5403118589934!2d-99.19940578561783!3d19.432257945728246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2020245d73501%3A0x69d86363e10c667f!2sAnatole+France+115%2C+Polanco%2C+Polanco+III+Secc%2C+11550+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553383911577" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+    </div>
+    </div>             
+</div>
+
+
+           
+</div>
+<div id="ancla_condesa" class="col_100">
+    <div class="col_100">
+    <div class="col_100 margenes_1">
+        <div class="fondo_verde col_30">
+            <div class="bkg_banquetes"><img class="img_100" src="/skin/default/images/greca_blanca.png" alt="" title=""></div>
+            <h2 class="blanco align_right"><strong>Ubicación <br> O Fernando Condesa </strong></h2>
+            <p class="tipo_16 blanco align_right"> Amsterdam 260, Col.Condesa  </p>
+            <p class="tipo_15 blanco align_right"> <a class="azul_claro" href="tel:555584-3210"><strong> Tel: (246) 7834-0982</strong></a> , <a class="azul_claro" href="tel:555264-5853"><strong>(222) 0926-3638 </strong></a></p>
+            <p class="tipo_13 blanco align_right">Dom de 7:30 am a 10:00 pm</p>
+            <p class="tipo_13 blanco align_right">Lun a Sab de 7:30 am a 12:00 am</p>
+
+        </div>
+        <div class="fondo_texto col_70"><img class="img_100" src="/skin/default/images/cab_condesa.jpg" alt="" title=""></div>
+    </div>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+   
+    <div class="col_100 cont_mapa">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.016696748678!2d-99.17004318561821!3d19.411684546380407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff3f7d6252c3%3A0x1861d4a2b98b4ae1!2sAmsterdam+260%2C+Hip%C3%B3dromo%2C+06100+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553383992205" width="100%" height="430" frameborder="0" scroll="no"></iframe>
+       
+    </div>
+    </div>               
+</div>           
+</div>
+<div id="ancla_valle" class="col_100">
+    <div class="col_100">
+    <div class="col_100 margenes_1">
+        <div class="fondo_azul_2 col_30">
+            <h2 class="blanco align_right"><strong>Ubicación <br> O Fernando del Valle </strong></h2>
+            <p class="tipo_16 blanco align_right"> Eugenia 111, Col.Del Valle</p>
+            <p class="tipo_15 blanco align_right"><a class="azul_claro" href="tel:555687-1356"> <strong> Tel: (222) 6383-1602 </strong></a>  <a class="azul_claro" href="tel:555543-7588"> <strong>(246) 7493-3228 </strong></a></p>
+            <p class="tipo_13 blanco align_right">Lun a Vie de 7:30 am a 11:00 pm </p>
+            <p class="tipo_13 blanco align_right">Sab de 8:00 am a 11:00 pm </p>
+            <p class="tipo_13 blanco align_right">Dom de 8:00 am a 10:00 pm</p>
+        </div>
+    </div>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+
+    <div class="col_100 cont_mapa">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.5490567142265!2d-99.17565778561851!3d19.38866894710925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff769feb996d%3A0x8300b7b983de4427!2sEugenia+111%2C+Col+del+Valle+Centro%2C+03100+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553384072373" width="100%" height="430" frameborder="0" scroll="no"></iframe>
+    </div>
+    </div>              
+</div>    
+</div>
+</div>  
+</article>
+	            </div>
+	        </div>
+            </div>
+            <div class="content">
+                <div class="wrapper">
+                    <div class="one_column">
+                    </div>
+                    
+
+               <footer>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+ </div></div></div></body></html>
