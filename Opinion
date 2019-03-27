@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Tu Opinion</title>
+	<link rel="stylesheet" type="text/css" href="11.css">
+<style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+	.hi{
+		text-align: center;
+		color: #FCFCFC;
+	}
+	body{
+		background-color: #E4E4E4;
+	}
+
+</style>
+</head>
+<headeer>
+	<div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+<body>
+<nav>
+	<ul>
+		<li><a href="file:///D:/Web/Proyecto/Inicio.html">Inicio</a></li>
+		<li><a href="file:///D:/Web/Proyecto/Quienes.html">Sobre nosotros</a></li>
+		<li><a href="file:///D:/Web/Proyecto/Menu.html">Menu</a></li>
+		<li><a href="file:///D:/Web/Proyecto/Sucursales.html">Sucursales</a></li>
+		<li><a href="file:///D:/Web/Proyecto/Servicios.html">Nuestros servicios</a></li>
+		<li><a href="file:///D:/Web/Proyecto/Opinion.html">Tu opinion</a></li>
+	</ul>
+</nav>
+</head>
+<body>
+	<p>Para nosotros es muy importante tu opinion para mejorar muestro desempeno o saber si es de tu agrado, asi que te agradeceriamos si llenaras el siguiente formulario.</p>
+<form action="" method="get">
+<p > Nombre: <input type="text" name="name_control" autofocus required /> </p>
+<p>Apellidos: <input type="text" name="last_control" autofocus required></p>
+<p > Correo: <input type="email" name="email_control" autofocus required /> </p>
+<p > Fecha: <input type="date" name="date_control"/> </p>
+<p> Telefono <input type="tel" name="tel_control" /> </p>
+<p> Tu opinion:<input type="text" name="opinion_control" autofocus required> </p>
+<p> <input type="submit" value="Enviar"  /> </p>
+</form>
+<center>
+<p>Gracias por tu preferencia</p>
+</center>
+</body>
+<footer>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+</html>
