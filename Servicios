@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nuestros Servicios</title>
+<link rel="stylesheet" type="text/css" href="15.css">
+    <style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+    h2{
+        text-align: center;
+        color: #BA1313;
+        font-family: Kodinah Diary;
+        font-size: 30px;
+    }
+
+        .hi{
+        text-align: center;
+        color: #FCFCFC;
+    }
+
+</style>
+
+    <headeer>
+    <div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+</head>
+ <nav>
+    <ul>
+        <li><a href="file:///D:/Web/Proyecto/Inicio.html">Inicio</a></li>
+        <li><a href="file:///D:/Web/Proyecto/Quienes.html">Sobre nosotros</a></li>
+        <li><a href="file:///D:/Web/Proyecto/Menu.html">Menú</a></li>
+        <li><a href="file:///D:/Web/Proyecto/Sucursales.html">Sucursales</a></li>
+        <li><a href="file:///D:/Web/Proyecto/Servicios.html">Nuestros servicios</a></li>
+        <li><a href="file:///D:/Web/Proyecto/Opinion.html">Tu opinión</a></li>
+    </ul>
+</nav>
+<body>
+<div class="width_100 wrapper_page">
+                
+            <div class="content">
+            <div class="wrapper">
+                <div class="one_column">
+                    <article><div style="margin: 50px 0 0 0;" class="one_column">
+
+<div id="submenu" class="width_100_p submenu-fijo ubicacion">
+        
+        <ul class="principal_nav_1">
+            <li class="btn" style="border: none;"><a class="ancla" href="#ancla_polanco"> Restaurante </a></li>
+            <li class="btn"><a class="ancla" href="#ancla_condesa"> Residencia </a></li>
+            <li class="btn"><a class="ancla" href="#ancla_valle"> Take-Away </a></li>           
+        </ul>
+        </div>
+        </div>
+    </div>
+    <div id="ancla_polanco" class="col_100">
+    
+<div class="col_100">
+            <div class="bkg_banquetes"><img class="img_100" src="logo.jpg" alt="" title=""></div>
+            <h2 class="blanco align_right"><strong>Servicio <br> En el restaurante </strong></h2>
+            <p>Ven a cualquier sucursal con las que contamos y deleitate con nuestros sabores y delicias </p>
+            <center>
+            <img src="a.jpg" width="310" height="170">
+            </center>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+    </div>             
+</div>
+
+</div>
+<div id="ancla_condesa" class="col_100">
+    <div class="col_100">
+    <div class="col_100 margenes_1">
+        <div class="fondo_verde col_30">
+            <div class="bkg_banquetes"><img class="img_100" src="/skin/default/images/greca_blanca.png" alt="" title=""></div>
+            <h2 class="blanco align_right"><strong>Servicio <br> Residencia </strong></h2>
+            <p>Nuestro servicio de Residencia puedes contratarnos para tus fiestas, reuniones, etc.</p>
+            <a href="file:///D:/Web/Proyecto/paquetes.html">Consulta nuestros menús aqui</a>
+        <center>
+            <img src="as.jpg" width="300" height="190">
+        </center>
+    </div>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+    </div>               
+</div>           
+</div>
+<div id="ancla_valle" class="col_100">
+    <div class="col_100">
+    <div class="col_100 margenes_1">
+        <div class="fondo_azul_2 col_30">
+            <h2 class="blanco align_right"><strong>Servicio<br> Take-Away </strong></h2>
+            <p>Con nuestro servicio "para llevar" puedes ordenar desde cualquier aplicacion como lo es <em>Uber Eats</em> para que te llevemos tu pedido hasta tu hogar</p>
+            <center>
+            <img src="take.jpg" width="300" height="170">
+            </center>
+    </div>
+    <div class="col_100">
+    <div class="col_100">
+    </div>
+    </div>              
+</div>    
+</div>
+</div>  
+</article>
+                </div>
+            </div>
+            </div>
+                    </body>
+
+<footer>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+</html>
