@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Eventos y Banqutes</title>
+	<link rel="stylesheet" type="text/css" href="17.css">
+</head>
+<style>
+div.background
+{
+background:url("fondo.jpg");
+border: .5px solid #A9A9A9;
+background-repeat: repeat;
+align-content: left;
+}
+	.hi{
+		text-align: center;
+		color: #FCFCFC;
+	}
+	body{
+		background-color: #E4E4E4;
+	}
+
+    h1{
+        font-family:  Kodinah Diary;
+        font-size: 33px;
+        color: #BA1313;
+        text-align: center; 
+    }
+    h3{
+        color: #E74C3C;
+    }
+</style>
+</head>
+<headeer>
+	<div class="background">
+  <img width="1400" height="280">
+</div>
+</headeer>
+<body>
+<div class="width_100 wrapper_page">
+                
+            <div class="content">
+	        <div class="wrapper">
+	            <div class="one_column">
+	                <article>
+<div class="one_column">
+    <div class="col_100 margenes_1">
+        <div class="fondo_verde col_30">
+            <h1 class="blanco align_right"><strong>BANQUETES</strong></h1>
+        </div>
+        <div class="fondo_texto col_70"><img class="img_100" src="/skin/default/images/cab_banquetes.jpg" alt="" title=""></div>
+    </div>
+
+        <div class="col_100">
+            <div class="col_33_p"><left>
+                <h3 class="menu-1 blanco"><strong>Menú 1</strong></h3>
+
+                <ul class="menu align_center">
+                    <li>Sopa de fideo seco con cama de frijol</li> <br>
+                    <li>Lomito de cerdo con salsa de ciruela pasa o Filete de róbalo en costra de pepita de calabaza al pipián rojo</li> <br>
+                    <li>Corazón de filete con queso brie</li><br>
+                    <li>Café americano</li><br>
+                    <li>Pastel mil hojas</li><br>
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+            <div>
+                <center>
+                    <img src="ban.jpg" width="300" height="170">
+                </center>
+            </div>
+        </left>
+             <div class="col_33_p"><rigth>
+                <h3 class="menu-2 blanco"><strong>Menú 2</strong></h3>
+
+                <ul class="menu align_center">
+                    <li>Sopa de tortilla</li><br>
+                    <li>Pollo al horno con salsa de chabacano y estragón o Filete de róbalo a los 3 chiles o Corazón de filete a la mostaza</li><br>
+                    <li>Café americano</li><br>
+                    <li>Pastel choco nuez</li><br>
+                    <li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+             <div>
+                <center>
+                    <img src="ban2.jpg" width="350" height="200">
+                </center>
+            </div>
+            </rigth>
+             <div class="col_33_p">
+                <h3 class="menu-3 blanco"><strong>Menú 3</strong></h3>
+
+                <ul class="menu align_center">
+                    <li>Crema de queso roquefort al chipotle</li><br>
+                    <li>Pechuga de pollo rellena de queso de cabra con salsa pasilla al gratín ó Corazón de filete con salsa de champiñones, ostiones y rajas de poblanos ó Filete de salmón en costra de 3 chiles con arroz al vapor</li><br>
+                    <li>Café americano</li><br>
+                    <li>Pastel de piñón</li>
+                </ul>
+            </div>
+             <div>
+                <center>
+                    <img src="ban3.jpg" width="350" height="180">
+                </center>
+            </div>
+        </div>
+            <div class="col_33_p">
+                <h3 class="menu-2 blanco"><strong>Menú 4</strong></h3>
+
+                <ul class="menu align_center">
+                    <li>Fusilli Dolce vita (con espárragos y camarones)</li><br>
+                    <li>1⁄4 Pato al horno con salsa de arándanos </li>
+                    <li>ó </li>
+                    <li>Filete de róbalo con salsa de mango</li>
+                    <li>ó </li>
+                    <li>Corazón de filete Chemita</li>
+                    <li>Café americano</li><br>
+                    <li>Pastel de fresas con crema</li><br>
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+             <div>
+                <center>
+                    <img src="ban4.jpg" width="300" height="190">
+                </center>
+            </div>
+<br>
+<br>
+<a href="file:///D:/Web/Proyecto/Servicios.html"> Volver</a>
+    </div>
+    </div> 
+
+</div>
+</article>
+	            </div>
+	        </div>
+            </div>
+        </div>
+        <footer>
+ <br>
+ <br>
+ <br>
+ <nav>
+<br>
+ <p class="hi">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando </p>
+ <p class="hi">México, Tlaxcala | Teléfono: 2469532180  </p>
+<br>
+ </nav>
+ </footer>
+</body>
+</html>
